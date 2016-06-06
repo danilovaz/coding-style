@@ -28,6 +28,7 @@ I'm inspired to create this after see [coding style repository](https://github.c
 
 * <big>**[HTML](/HTML.md)**</big>
 * <big>**[Stylesheet](/Stylesheet.md)**</big>
+* <big>**[Stylus](/Stylus.md)**</big>
 * <big>**[JavaScript](/Javascript.md)**</big>
 
 
